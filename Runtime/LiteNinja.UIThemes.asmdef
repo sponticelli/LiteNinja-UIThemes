@@ -1,0 +1,17 @@
+{
+    "name": "LiteNinja.UIThemes",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "LiteNinja.SOA"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
